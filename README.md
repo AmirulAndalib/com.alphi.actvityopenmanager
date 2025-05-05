@@ -19,7 +19,7 @@
 - 新的后台自启拦截模板语法: `ask -b  调用者包名  A:活动名`
 
 #### 少数品牌机型适配计划
-捐赠20元在github反馈以优先安排品牌机型适配，目前以主流大众使用的手机为适配标志
+捐赠20元在github反馈以优先安排品牌机型适配，目前以主流大众使用的手机为适配标准
 
 |![pic_20240730011109](https://github.com/user-attachments/assets/6c49a861-8faf-4fa7-be59-cddabc0d941c)|![Screenshot_20240910_Activity链式启动管理](https://github.com/user-attachments/assets/b040fc11-623b-45c0-b100-cfa8b7e07c7d)|
 |:---:|:---:|
