@@ -18,5 +18,8 @@
 自1.06(7)版本开始，为了解决部分应用采用特殊方式启动app，我们不得不废除废弃旧的复杂多链式`A:{**}`拦截功能，并替换为后台拦截启动功能，新引入的后台拦截启动功能能够更有效的拦截应用后台自启Activity，语法也更简单。  
 - 新的后台自启拦截模板语法: `ask -b  调用者包名  A:活动名`
 
+#### 少数品牌机型适配计划
+捐赠20元在github反馈以优先安排品牌机型适配，目前以主流大众使用的手机为适配标志
+
 |![pic_20240730011109](https://github.com/user-attachments/assets/6c49a861-8faf-4fa7-be59-cddabc0d941c)|![Screenshot_20240910_Activity链式启动管理](https://github.com/user-attachments/assets/b040fc11-623b-45c0-b100-cfa8b7e07c7d)|
 |:---:|:---:|
